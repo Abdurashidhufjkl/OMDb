@@ -74,7 +74,7 @@ form button:hover {
 
 .card {
   width: 400px;
-  height: 690px;
+  height: 730px;
   align-items: center;
   justify-content: center;
   display: flex;
@@ -90,7 +90,7 @@ form button:hover {
 }
 
 .card h1 {
-  font-size: 28px;
+  font-size: 24px;
   font-style: normal;
   text-align: center;
   width: 250px;
@@ -112,7 +112,7 @@ form button:hover {
 
 .card img {
   width: 350px;
-  height: 518px;
+  height: auto;
   display: block;
   border-radius: 6px;
 }

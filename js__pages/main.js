@@ -47,3 +47,6 @@ function showOneMovie(id) {
     console.log("Movie details:", res.data);
   });
 }
+
+
+
